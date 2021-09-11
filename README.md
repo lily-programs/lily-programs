@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings and salutations! 👋
 
 <!--
 **lily-programs/lily-programs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Lily. I'm a software engineer and I like learning new things. 
+
+- 🔭 I’m currently working on creating my own message board à la HN
+- 🌱 I’m currently learning Rust
